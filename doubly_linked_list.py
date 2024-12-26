@@ -141,14 +141,3 @@ class DoublyLinkeList:
         return temp
 
 
-
-
-
-
-
-dll = DoublyLinkeList(1)
-dll.append(2)
-dll.append(3)
-dll.remove(1)
-dll.print_list()
-
